@@ -91,3 +91,11 @@ E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekSh
 E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
 E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
 E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\EntityFramework.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Microserviços c#\GeekShop\GeekShop_API_Microservices.Net\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
